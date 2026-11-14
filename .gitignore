@@ -47,6 +47,7 @@ rea/
 
 # Keep local notes and review artifacts out of the website repository.
 /*.md
+!/README.md
 /*.txt
 /.git-commit-msg
 /rea*/
